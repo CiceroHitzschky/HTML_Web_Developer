@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <title>Mudei o título</title>
+    </head>
+    <body>
+        <h1>L2 - Academia</h1>
+        <h2> O bordão da academia </h2>
+        <p> Aqui está um conteúdo de alguma coisa para a academia. </p>
+        <h2>
+            Listas
+        </h2>
+        <p>
+            Listas ordenadas usamos a tag 'ol'
+            <ol>
+                <li>
+                    Esse é um item
+                </li>
+                <li>
+                    Esse é outro item
+                </li>
+            </ol>
+            Além disso temos as listas não ordenadas 'ul'
+            <ul>
+                <li>
+                    Esse é uma lista sem ordem
+                </li>
+            </ul>
+        </p>
+    </body>
+</html>
